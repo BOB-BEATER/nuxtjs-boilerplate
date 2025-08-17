@@ -1,5 +1,5 @@
 <template>
   <div>
-    <howdy/>
+    spicy chicken
   </div>
 </template>
